@@ -107,6 +107,6 @@ def fig_telegram_trending():
 
 
 if __name__ == '__main__':
-   app.run(debug = True)
+   app.run()
 
 
